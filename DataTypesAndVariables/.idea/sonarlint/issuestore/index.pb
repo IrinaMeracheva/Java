@@ -1,0 +1,31 @@
+
+C
+Tasks/src/Tasks.iml,8\d\8dc8c01abaa98aeeb7487b4f8b5693b450d69109
+]
+-Tasks/src/.idea/sonarlint/issuestore/index.pb,4\d\4d3d898db4dbf69963b340d4a94e02b8f2ec881e
+?
+Tasks/hello.iml,3\6\368ffa1c0c9c8a9ac5acf8ad1c240c790160ac42
+Y
+)Tasks/.idea/sonarlint/issuestore/index.pb,4\b\4bc5527917e66e5b108abd0a17f214d19fde0d19
+O
+Tasks/src/com/company/Tips.java,5\f\5f709928c8b41e51922fe16c29245a0f8361508f
+V
+&Tasks/src/com/company/SumPositive.java,0\a\0a91d4ffce3bfde129c7c7b4ad0b1fb61f24a2d3
+O
+Tasks/src/com/company/Time.java,4\7\47238cd59af97bfb1d9f80cc7da65b61f5517d45
+X
+(Tasks/src/com/company/RectangleArea.java,2\9\295ec1bdcaacef8e48a4fdb8a99263d311716f31
+T
+$Tasks/src/com/company/SumDigits.java,3\7\3752cf380f9543d38a517ae51e10a197cc4bf48a
+S
+#Tasks/src/com/company/Interest.java,3\2\324e73bbac7dce57a844bc5e28f590dec5bad8a0
+O
+Tasks/src/com/company/Main.java,4\4\4415ea653166205e8f007402a41230fe26d43c10
+T
+$Tasks/src/com/company/Converter.java,8\3\833157f521e5bb54e39ecdb30c04665003a57fac
+S
+#Tasks/src/com/company/HelloYou.java,d\f\dfb0d1f9f330ac320c4af4cf183b357c3637880c
+V
+&Tasks/src/com/company/Arithmetics.java,2\c\2c42c3d697ffa49855c843cc874f1a8416104d3b
+X
+(Tasks/src/com/company/BottleDeposit.java,e\f\eff1ab4a871df8049d7f30fb004773bf1af817ec
